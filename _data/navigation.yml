@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://stellaud.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/stellaud
 
   # - title: "Projects"
   #   url: /projects/
@@ -20,8 +20,8 @@ main:
 categories:
   - title: "Categories1"
     url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
+  - title: "Test"
+    url: /categories/test/
   - title: "Categories3"
     url: /categories/categories3/
   - title: "Categories4"
