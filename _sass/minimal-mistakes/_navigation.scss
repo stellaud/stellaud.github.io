@@ -80,7 +80,7 @@
       text-align: center;
       text-decoration: none;
       color: $muted-text-color;
-      border: 1px solid mix(#000, $border-color, 25%);
+      border: 1px solid mix(#ffffff, $border-color, 25%);
       border-radius: 0;
 
       &:hover {
@@ -129,7 +129,7 @@
     text-align: center;
     text-decoration: none;
     color: $muted-text-color;
-    border: 1px solid mix(#000, $border-color, 25%);
+    border: 1px solid mix(#ffffff, $border-color, 25%);
     border-radius: $border-radius;
 
     &:hover {
@@ -268,9 +268,9 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: $background-color;
-    -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16),
-      0 2px 10px 0 rgba(#000, 0.12);
-    box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
+    -webkit-box-shadow: 0 2px 4px 0 rgba(#ffffff, 0.16),
+      0 2px 10px 0 rgba(#ffffff, 0.12);
+    box-shadow: 0 2px 4px 0 rgba(#ffffff, 0.16), 0 2px 10px 0 rgba(#ffffff, 0.12);
 
     &.hidden {
       display: none;
@@ -536,7 +536,7 @@
 
   .nav__title {
     /* change Right Navigation title 'On this page' color */
-    color: rgb(54, 54, 54);
+    color: rgb(255, 255, 255);
     font-size: $type-size-6;
     background: inherit;
     border-top-left-radius: $border-radius;
