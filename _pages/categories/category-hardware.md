@@ -1,9 +1,9 @@
 ---
-title: "Test"
+title: "Hardware"
 layout: category
-permalink: /categories/test/
+permalink: /categories/hardware/
 author_profile: true
-taxonomy: Test
+taxonomy: Hardware
 sidebar:
   nav: "categories"
 ---
